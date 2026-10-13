@@ -1,0 +1,126 @@
+---
+.title = "Work & Projects",
+.date = .date("2026-10-13T00:00:00"),
+.layout = "index.shtml",
+---
+
+# Work Experiences
+
+## Software Engineer at [Certu Systems](http://certusystems.com/)
+
+**Tenure:** September 2025 - Present (Full-time)
+
+**Skills:** Go, Python, GraphQL, PostgreSQL, MySQL (TiDB flavor), Docker
+
+**Responsibilities:**
+
+Transportation management system:
+- Revamping logging for better tracing and SOC compliance
+- Improve customer data isolation
+- Reworking the backend to support multi-tenant on a single deployment
+
+Internal tool:
+- UI-based deployment management tool
+
+AI-powered intelligence service:
+- Developed benchmark to measure app performance
+- Improve robustness and correctness
+
+Operations automation:
+- Implemented cross-environment master data management with transparent environment view for end-users
+- Improved central communication platform for simpler extension and robustness
+
+---
+
+## Data Engineer at [Cube](https://cube.asia/)
+
+**Tenure:** May - August 2025 (Full-time), September 2025 - August 2026 (Part-time)
+
+**Skills:** Python, SQL, Polars, Amazon S3, Amazon Athena
+
+**Responsibilities:** Part of the the data storage team (Pyramid)
+
+- Designed and implemented data ingestion code that handles ingesting multi-schema raw data into the same table of a database
+- Optimized product brand tagging algorithm resulting in ~18x faster code
+- Organized a knowledge sharing session on fast data processing using Polars
+- (Part-time) Cleaned the backlogs + did evaluation and research tasks
+
+---
+
+## Data Engineer at [The Gang Technology](https://thegang.tech/)
+
+**Tenure:** May 2024 - April 2025 (Full-time)
+
+**Skills:** Python, TypeScript, SQL, BigQuery, Kafka, kSQL
+
+**Responsibilities:**
+
+- Created data reports and visualizations
+- Created enrichment logic for CDC data streams
+- Wrote backends for data collection and visualization
+- Wrote data extraction and load scripts
+- Organized knowledge sharing session on streaming data between databases
+
+## President and more at [Science Society Club, MUIC](https://www.instagram.com/muic_ssc)
+
+**Tenure:** August 2021 - March 2025
+
+**The "and more" roles:** Secretary, treasurer, project manager, podcast producer at
+some point in time
+
+**Responsibilities:**
+
+As president:
+- Organized multiple club activities
+- Supervised internal communications and activity planning
+- Coordinated with student affairs in getting activities approved and organized
+
+As secretary:
+- Worked on all documents that needed to be submittted for the club
+- Organized multiple activities for students
+
+As treasurer:
+- Prepared documents related to the financials of the club
+- Handling club budget and assets
+
+As project manager:
+- Planned, prepared, and hosted multiple club activities
+
+As podcast producer:
+- Recorded and edited many episodes of the science podcast up until the 19th episode of the podcast
+- Supervised the production of podcasts starting the 20th episode
+
+## Teaching Assistant at [Mahidol University International College](https://muic.mahidol.ac.th/)
+
+**Tenure:** September 2021 - April 2024
+
+**Skills:** Programming, Communication
+
+**Responsibilities:** Helped students and graded assignments of many computer science courses 
+including (but not limited to):
+- ICCS101: Introduction to Programming
+- ICCS121: System Skills and Low-level Programming
+- ICCS208: Data Structures and Abstractions
+- ICCS311: Functional and Parallel Programming
+- ICCS312: Algorithms and Tractability
+
+## Private Tutor in Computer Science
+
+**Tenure:** January 2023 - April 2023
+
+**Skills:** Communication, C, Data Structures and Algorithms
+
+**Responsibilities:** Tutored a computer engineering undergraduate student on C programming and Data Structures and Algorithms.
+
+## Software Quality Assurance Tester at [The Gang Technology](https://thegang.tech/)
+
+**Tenure:** August 2022 - January 2023 (Part-time)
+
+**Skills:** Automated Software Testing, TypeScript, PlaywrightJS
+
+**Responsibilities:** Developed automated tests for web applications using Playwright.
+
+# Personal and School Projects
+
+I'll fill this in later when I'm not lazy.
+

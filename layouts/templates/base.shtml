@@ -6,19 +6,18 @@
 		<title :text="$site.title"></title>
 		<link type="text/css" rel="stylesheet" href="$site.asset('style.css').link()">
 		<link type="text/css" rel="stylesheet" href="$site.asset('highlight.css').link()">
-		<!-- mathtex -->
-		<link type="text/css" rel="stylesheet" href="$site.asset('Temml-Local.css').link()">
-		<script defer src="$site.asset('temml.min.js').link()"></script>
-		<script defer src="$site.asset('render-mathtex.js').link()"></script>
-		<!-- /mathtex -->
+		<!-- font -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Maitree:wght@200;300;400;500;600;700&display=swap" rel="stylesheet">
 		<super>
 	</head>
 	<body id="body">
 		<h1 class="site-title" :text="$site.title"></h1>
 		<nav>
-			<a href="$site.page('').link()">Home</a>
+			<a href="$site.page('').link()">About</a>
 			&nbsp; • &nbsp;
-			<a href="$site.page('about').link()">About</a>
+			<a href="$site.page('exp-projects').link()">Work & Projects</a>
 			&nbsp; • &nbsp;
 			<a href="$site.page('blog').link()">Blog</a>
 			<ctx :if="$site.page('devlog').subpages().first?()">
@@ -29,8 +28,10 @@
 		<super>
 		<footer>
 			<hr>
-			<h5>SITE UNDER CONSTRUCTION</h5>
-			<img src="$site.asset('under-construction.gif').link()" width=90>
+			<h5>
+          Website built with 
+          <a href="https://zine-ssg.io/">Zine</a>
+      </h5>
 		</footer>
 	</body>
 </html>
