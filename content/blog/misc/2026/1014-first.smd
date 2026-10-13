@@ -12,13 +12,14 @@
 With the release of many LLMs from OpenAI and Anthropic, people who normally
 don't write have started to *"write"* more. And by more, I mean a *lot* more.
 Not that the quality is good, but the quantity (especially of words) is
-definitely very noticeable. Trust me, I'd know. My boss and I use Claude at work
-and I'm pretty confident that the one of the documentation he sends me is
+definitely very noticeably large. Trust me, I'd know. My boss and I use Claude at work
+and I'm pretty confident that one of the documentation he sent me is
 definitely a medical-grade sleeping pill in disguise because it was sending me
 directly to dream land within the first 30 seconds of me reading it. Either that
 or it was a military-grade psychological weapon that makes your head hurts so much
-you wish you were 6 feet under after reading the first few sentences. Some
-people really do think quantity matters more than quantity.
+you wish you were 6 feet under after reading the first few sentences. To put it
+plainly, it was an AI slop–one of the worst I've ever had the displeasure of reading. Some
+people really do think quantity matters more than quality. 
 
 On a related note, you've probably seen people (AI bros) talk about how they
 teach their models to mimic their writing voice(?) or use skills to make them
@@ -32,7 +33,7 @@ engagements.
 Honestly, that's not the sad part for me. The really sad part for me is that
 many people have decided that they should maximize the amount of money made and
 minimize the amount of effort put into it. If teaching an LLM to *write like
-you* is going to make you more money, then that is what they'll do. You
+you* is going to make them more money, then that is what they'll do. You
 shouldn't have fun while making money anymore if there is a way to further
 minimize your efforts.
 
@@ -106,6 +107,8 @@ Back to the title of this rambling, I still want to write with my own two hands.
 That's why I've decided to spend some of my free time writing again on this blog
 that I created on a whim. It won't contain anything life-changing or thought
 provoking. It also won't contain ads or any tracker because I don't like that.
+To be specific, Cloudflare Pages (where I host this) might have some trackers,
+but I think it's not an ad thing so please imagine that it doesn't exist.
 It will, however, exclusively contain the ramblings of a (born in 2002) year-old
 who wish he had someone to talk to but decided to throw his thoughts onto the
 internet instead of going out, touching grass, and making friends.
