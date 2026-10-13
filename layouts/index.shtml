@@ -2,5 +2,8 @@
 <head id="head">
 </head>
 <body id="body">
-	<div :html="$page.content()"></div>
+  <div class="flex-row">
+    <div :html="$page.contentSection('left')"></div>
+    <div :html="$page.contentSection('right')"></div>
+  </div>
 </body>

@@ -6,6 +6,8 @@
 
 # About Me
 
+# []($section.id('left'))
+
 Hello. My name is Nawat Ngerncham. I am a software engineer playing
 [libero](https://www.britannica.com/sports/libero) (I get switched between
 teams and projects depending on which needs an extra pair of hands) at
@@ -31,6 +33,8 @@ train on the side.
 
 If you would like to contact me, feel free to reach out via to this email:
 `n.ngerncham[at]gmail[dot]com`.
+
+# []($section.id('right'))
 
 Here's a picture of me eating sushi with my left hand (I'm right-handed) because
 I hurt my right shoulder and could not lift my right arm.
