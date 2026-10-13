@@ -1,0 +1,115 @@
+---
+.title = "I still want to write with my own two hands",
+.date = .date("2026-10-14T01:20:00+07:00"),
+.layout = "post.shtml",
+.alternatives = [.{
+    .name = "rss",
+    .layout = "blog.xml",
+    .output = "index.xml",
+}],
+---
+
+With the release of many LLMs from OpenAI and Anthropic, people who normally
+don't write have started to *"write"* more. And by more, I mean a *lot* more.
+Not that the quality is good, but the quantity (especially of words) is
+definitely very noticeable. Trust me, I'd know. My boss and I use Claude at work
+and I'm pretty confident that the one of the documentation he sends me is
+definitely a medical-grade sleeping pill in disguise because it was sending me
+directly to dream land within the first 30 seconds of me reading it. Either that
+or it was a military-grade psychological weapon that makes your head hurts so much
+you wish you were 6 feet under after reading the first few sentences. Some
+people really do think quantity matters more than quantity.
+
+On a related note, you've probably seen people (AI bros) talk about how they
+teach their models to mimic their writing voice(?) or use skills to make them
+not sound like AI slop. Posts like these don't really make me mad, but they do
+make me wonder why these people only started writing after they have access to
+these tools that essentially writes for them. My bet is on them wanting to make
+money, and posting on platforms like Facebook or Twitter (currently known as X)
+can make them a lot of money as long as there is enough volume of posts and
+engagements.
+
+Honestly, that's not the sad part for me. The really sad part for me is that
+many people have decided that they should maximize the amount of money made and
+minimize the amount of effort put into it. If teaching an LLM to *write like
+you* is going to make you more money, then that is what they'll do. You
+shouldn't have fun while making money anymore if there is a way to further
+minimize your efforts.
+
+I say this as if I'm immune to the hyper-optimized money-making mindset. But
+truth be told, I know I'm part of the problem, too. I use Claude at work to
+lessen the amount of actual work I have to do. It doesn't make me happy, but it
+allows me to be lazy and still make money. It also makes me sad. _Really sad_.
+
+No, I'm not being sarcastic. I still want to write code by hand. But having used
+Claude for the past 6 months really allowed me to be lazier and decay my
+mechanical programming skills to the point where I wonder that, if I went back to
+writing code by hand again, will I still be able to keep up with the current
+deadlines.
+
+It's not a world I want to live in, but it's also a world I've walked myself into with my own two legs.
+
+Obviously, this is not true for everyone. Inspiring people like [Andrew
+Kelley](https://andrewkelley.me/) still doesn't use LLMs in his work on the [Zig
+programming language](https://ziglang.org/) and does not allow LLM-generated
+contributions to the language as well. People like him gives me hope that,
+no matter how powerful and common LLMs become, there will always be people
+like him who are still able to find a solid place in the world and can still
+support themself doing things _their way_.
+
+I liken this to manga artists who still use pen and paper to draw their
+mangas even when drawing tablets exist. An example I know is Kuzumi Taiyou-sensei
+who drew the Umamusume: Cinderella Gray manga that I love.
+[Here is a video](https://youtu.be/BjA8WR9LAo0) of him doing the line work(?) of
+a panel of the manga.
+
+To me, someone who doesn't make manga, using a drawing tablet seems like the
+more efficient way of making manga. The drawing step might be the same, but you
+don't have to get your hands dirty from ink. You can use the digital tools to
+help you with coloring or shading, and you don't have to risk spilling something on
+the page and having to redo the entire thing. (You can still spill drinks on
+your computer and have to redo due to your computer breaking but you get the point.)
+You don't have to scan the paper into a digital file, and erasing is probably easier, too.
+
+To me, it doesn't make much sense for someone to still be drawing on pen and
+paper when a powerful tool like a drawing tablet exists. Why would anyone still
+use pen and paper?
+
+I don't have the answer to that, but I have a hypothesis: Because it's fun. I
+also have another hypothesis about familiarity but it doesn't support my point
+so we won't talk about it. I also think it's the more straightforward reason so
+I shouldn't have to explain it.
+
+Fun. What a lovely word. I wonder when was the last time I used it to describe something
+that I did.
+
+I think a lot of people, me included, have optimized the fun out of making
+money. Why should you keep it? If you can make more money doing
+something boringly, then you can use that extra money to spend it on something
+fun later on. That should make up for it, right? The only one who can answer this is
+you–the reader. For me, the answer is "not really." I want to have fun for the
+most part of my waking hours, so I want the thing that makes me money to be fun,
+too. Obviously, I'm speaking as someone who can choose. Not everyone can make
+this choice for themselves due to their financial situation. But for those who
+can, I'd love to push you towards optimizing for fun, too. Not everything in
+life has to be hyper-optimized for the max amount of money in your bank account
+if you're gonna feel like shit after the work day. That's your decision.
+And I think it should be just that–your decision. If you're dead set on money
+maximization, then I won't stop you. But if you're somewhere in between, then
+I wanna tell you that it's OK to slow down to enjoy yourself more. Of course,
+I'm just a 24 year-old right now so there's much that I don't know. However, I
+know that slowing down and enjoying life more is something I will do. And maybe,
+so will you. Just take this as a rambling of a stranger on his phone you might
+walk past on the street.
+
+Back to the title of this rambling, I still want to write with my own two hands.
+That's why I've decided to spend some of my free time writing again on this blog
+that I created on a whim. It won't contain anything life-changing or thought
+provoking. It also won't contain ads or any tracker because I don't like that.
+It will, however, exclusively contain the ramblings of a (born in 2002) year-old
+who wish he had someone to talk to but decided to throw his thoughts onto the
+internet instead of going out, touching grass, and making friends.
+
+I hope you like it here. And if you don't, you can always just navigate away.
+The internet is a vast place. You shouldn't waste your time somewhere you don't
+like–somewhere you don't find fun.
