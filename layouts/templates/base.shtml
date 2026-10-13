@@ -26,10 +26,10 @@
 		<super>
 		<footer>
 			<hr>
-			<h5>
+			<p>
           Website built with 
           <a href="https://zine-ssg.io/">Zine</a>
-      </h5>
+      </p>
 		</footer>
 	</body>
 </html>
