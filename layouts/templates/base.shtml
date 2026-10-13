@@ -26,9 +26,9 @@
 		<super>
 		<footer>
 			<hr>
-			<p>
+			<p class="subtitle">
           Website built with 
-          <a href="https://zine-ssg.io/">Zine</a>
+          <a class="subtitle" href="https://zine-ssg.io/">Zine</a>
       </p>
 		</footer>
 	</body>
