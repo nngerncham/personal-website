@@ -23,6 +23,6 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy public/ --project-name PROJECT_NAME
+          command: pages deploy public/ --project-name personal-website
           # Optional: Adds GitHub deployments support
           githubToken: ${{ secrets.GITHUB_TOKEN }}
