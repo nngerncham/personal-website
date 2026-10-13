@@ -1,5 +1,5 @@
 ---
-.title = "Work & Projects",
+.title = "Work",
 .date = .date("2026-10-13T00:00:00"),
 .layout = "page.shtml",
 ---
@@ -119,8 +119,3 @@ including (but not limited to):
 **Skills:** Automated Software Testing, TypeScript, PlaywrightJS
 
 **Responsibilities:** Developed automated tests for web applications using Playwright.
-
-# Personal and School Projects
-
-I'll fill this in later when I'm not lazy.
-

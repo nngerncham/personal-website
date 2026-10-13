@@ -1,6 +1,6 @@
 ---
 .title = "I still want to write with my own two hands",
-.date = .date("2026-10-14T01:20:00+07:00"),
+.date = .date("2026-10-14T"),
 .layout = "post.shtml",
 .alternatives = [.{
     .name = "rss",

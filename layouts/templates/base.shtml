@@ -17,7 +17,9 @@
 		<nav>
 			<a href="$site.page('').link()">About</a>
 			&nbsp; • &nbsp;
-			<a href="$site.page('exp-projects').link()">Work & Projects</a>
+			<a href="$site.page('work').link()">Work</a>
+			&nbsp; • &nbsp;
+			<a href="$site.page('projects').link()">Projects</a>
 			&nbsp; • &nbsp;
 			<a href="$site.page('blog').link()">Blog</a>
 		</nav>
