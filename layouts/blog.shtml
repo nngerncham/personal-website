@@ -18,9 +18,10 @@
 		<div :loop="$page.subpages()">
       <div :if="$loop.it.link().startsWith('/blog/cs/')">
         <span :text="$loop.it.date.format('02 Jan 2006')"></span>
-        <span :if="$loop.it.custom.get?('actualdate')"
-              :text="$if.parseDate().format('(02 Jan 2006)')"
-              class="subtitle"></span>
+        <span :if="$loop.it.custom.get?('actualdate')">
+          <span :text="$if.parseDate().format('(02 Jan 2006)')"
+                class="subtitle"></span>
+        </span>
         – <a href="$loop.it.link()"><span :text="$loop.it.title"></span></a>
       </div>
 		</div>
@@ -28,9 +29,10 @@
 		<div :loop="$page.subpages()">
       <div :if="$loop.it.link().startsWith('/blog/exercise/')">
         <span :text="$loop.it.date.format('02 Jan 2006')"></span>
-        <span :if="$loop.it.custom.get?('actualdate')"
-              :text="$if.parseDate().format('(02 Jan 2006)')"
-              class="subtitle"></span>
+        <span :if="$loop.it.custom.get?('actualdate')">
+          <span :text="$if.parseDate().format('(02 Jan 2006)')"
+                class="subtitle"></span>
+        </span>
         – <a href="$loop.it.link()"><span :text="$loop.it.title"></span></a>
       </div>
 		</div>
@@ -38,9 +40,10 @@
 		<div :loop="$page.subpages()">
       <div :if="$loop.it.link().startsWith('/blog/food/')">
         <span :text="$loop.it.date.format('02 Jan 2006')"></span>
-        <span :if="$loop.it.custom.get?('actualdate')"
-              :text="$if.parseDate().format('(02 Jan 2006)')"
-              class="subtitle"></span>
+        <span :if="$loop.it.custom.get?('actualdate')">
+          <span :text="$if.parseDate().format('(02 Jan 2006)')"
+                class="subtitle"></span>
+        </span>
         – <a href="$loop.it.link()"><span :text="$loop.it.title"></span></a>
       </div>
 		</div>
@@ -48,9 +51,10 @@
 		<div :loop="$page.subpages()">
       <div :if="$loop.it.link().startsWith('/blog/weeb/')">
         <span :text="$loop.it.date.format('02 Jan 2006')"></span>
-        <span :if="$loop.it.custom.get?('actualdate')"
-              :text="$if.parseDate().format('(02 Jan 2006)')"
-              class="subtitle"></span>
+        <span :if="$loop.it.custom.get?('actualdate')">
+          <span :text="$if.parseDate().format('(02 Jan 2006)')"
+                class="subtitle"></span>
+        </span>
         – <a href="$loop.it.link()"><span :text="$loop.it.title"></span></a>
       </div>
 		</div>
@@ -58,9 +62,10 @@
 		<div :loop="$page.subpages()">
       <div :if="$loop.it.link().startsWith('/blog/travel/')">
         <span :text="$loop.it.date.format('02 Jan 2006')"></span>
-        <span :if="$loop.it.custom.get?('actualdate')"
-              :text="$if.parseDate().format('(02 Jan 2006)')"
-              class="subtitle"></span>
+        <span :if="$loop.it.custom.get?('actualdate')">
+          <span :text="$if.parseDate().format('(02 Jan 2006)')"
+                class="subtitle"></span>
+        </span>
         – <a href="$loop.it.link()"><span :text="$loop.it.title"></span></a>
       </div>
 		</div>
@@ -68,9 +73,10 @@
 		<div :loop="$page.subpages()">
       <div :if="$loop.it.link().startsWith('/blog/misc/')">
         <span :text="$loop.it.date.format('02 Jan 2006')"></span>
-        <span :if="$loop.it.custom.get?('actualdate')"
-              :text="$if.parseDate().format('(02 Jan 2006)')"
-              class="subtitle"></span>
+        <span :if="$loop.it.custom.get?('actualdate')">
+          <span :text="$if.parseDate().format('(02 Jan 2006)')"
+                class="subtitle"></span>
+        </span>
         – <a href="$loop.it.link()"><span :text="$loop.it.title"></span></a>
       </div>
 		</div>
