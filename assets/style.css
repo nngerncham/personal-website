@@ -1,13 +1,8 @@
-h1,
-h2,
-h3,
-h4,
-h5 {
+h1, h2, h3, h4, h5 {
   color: #111;
 }
 
-b,
-strong {
+b, strong {
   color: #111;
 }
 
@@ -36,7 +31,6 @@ body {
 .site-title {
   font-size: 2.5em;
   margin-bottom: 10px;
-  /* text-align: center; */
 }
 
 nav {
@@ -95,6 +89,25 @@ footer hr {
   width: 100%;
 }
 
+// custom ones
+
 .subtitle {
   color: #777;
 }
+
+blockquote {
+  max-width: 50vw;
+  margin: auto;
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: serif;
+  font-style: italic;
+}
+blockquote::before, blockquote::after {
+  display: block;
+  font-size: 3rem;
+  line-height: 1;
+  height: 0.5em;
+}
+blockquote::before { content: "\201C"; }
+blockquote::after  { content: "\201D"; }
