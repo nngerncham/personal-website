@@ -47,9 +47,9 @@
         – <a href="$loop.it.link()"><span :text="$loop.it.title"></span></a>
       </div>
 		</div>
-		<h3>Anime, Manga, Light Novel, Cosplays</h3>
+		<h3>Entertainment</h3>
 		<div :loop="$page.subpages()">
-      <div :if="$loop.it.link().startsWith('/blog/weeb/')">
+      <div :if="$loop.it.link().startsWith('/blog/entertainment/')">
         <span :text="$loop.it.date.format('02 Jan 2006')"></span>
         <span :if="$loop.it.custom.get?('actualdate')">
           <span :text="$if.parseDate().format('(02 Jan 2006)')"
