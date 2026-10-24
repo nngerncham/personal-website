@@ -6,7 +6,10 @@
     .name = "rss",
     .layout = "blog.xml",
     .output = "index.xml",
-}]
+}],
+.custom = .{
+  .actualdate = "2026-10-23"
+}
 ---
 
 > The stage lights were blinding my eyes, the speakers were deafening my
