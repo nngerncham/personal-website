@@ -1,0 +1,184 @@
+---
+.title = "Lijiang, Shangri-la, Daocheng Yading Nature Reserve",
+.date = .date("2026-11-02T"),
+.layout = "post.shtml",
+.alternatives = [.{
+    .name = "rss",
+    .layout = "blog.xml",
+    .output = "index.xml",
+}],
+.custom = .{
+    .actualdate = "2026-10-25"
+}
+---
+
+This trip was sold to me by my mom as a trip to "hike up a mountain." Of course,
+being a trail running enthusiast and an enjoyer of going up high places, I said yes.
+Specifically, we are hiking up a part of the Yangmaiyong peak of the
+[Daocheng Yading Nature Reserve](https://www.tripadvisor.com/Attraction_Review-g1217767-d20942499-Reviews-Yading_Nature_Reserve-Daocheng_County_Garze_Tibetan_Autonomous_Prefecture_Sichu.html)
+to go see the Milk Lake and the Five-Color Lake, and the highest altitude we are
+reaching in this trip is about 4,700 meters above sea-level.
+
+TripAdvisor describes the Daocheng Yading Nature Reserve as "a
+high-altitude mountain sanctuary and Tibetan pilgrimage site centered on
+three sacred snow-capped peaks," and reaches up to over 6,032 meters above
+sea-level at its highest peak: Xiannairi. This is not the one we're hiking up
+(thankfully) because high altitude means low oxygen, and low oxygen means a
+harder time hiking. Although I've ~~run~~ power-hiked up other mountains at
+lower altitudes, I think high-altitude hiking is still going to be a big jump
+from my previous experiences since I'll be fighting with the incline _and_ the
+lack of oxygen. Hopefully,  I'll feel that it was all worth it by the time I reach the lakes.
+
+# Day 1: Bangkok to Kunming to Lijiang
+
+The flight to Kunming was scheduled at 7:50AM. So, being the responsible adult
+that my mom is, we had to arrive at the airport at around 5AM. This also means
+that we had to wake up before 4AM on a Sunday to shower and take a taxi to the
+airport since it takes about an hour to get there. Good news: We arrived in time!
+Bad news: We now have about 2 hours to kill before boarding the plane because
+the security was very fast!
+
+Thankfully, my mom has access to a lounge as a benefit of one of her credit
+cards (or something like that, I honestly don't know) so we (I) got to utilize
+the lounge's facility (food offerings) to kill time. I had some fried rice, some
+pastries, a can of ginger ale, and half a can of beer (my stomach was too full
+of gas from the ginger ale to finish it). They weren't very good but they're edible.
+Once it was time to board the plane, my mom and I just went to the gate and got
+on the plane. There was no delay to the flight and after around 2.5 hours in the
+sky, we safely arrived at Kunming Changshui International Airport at around
+10:30AM local Chinese time.
+
+One of the first things we had to do after landing is, of course, to go through
+immigration. The immigration officer I got was interesting. He angrily spoke
+Chinese to me like what I didn't understand the words that were coming out of
+his mouth. Of course I don't understand any word that was coming out of his
+mouth. I don't speak Chinese :D Eventually, he gave up and asked me in English
+if I was there to travel or to work–to which I said for travel–and he let me in.
+
+I get that there are many Thai people who speak Chinese very well given how
+common Chinese-Thai people (คนไทยเชื้อสายจีน) are in Thailand. I'm assuming
+that he thought I was one of them. To be fair, I am half Chinese on my mom's
+side. However, I was mainly raised by the Thai half of my family so my Chinese
+knowledge is limited to just the basic words–not enough to tell what travel and
+business is. Anyway, now that we're done with immigration, the next step is to
+go to the Kunming Railway Station.
+
+Our tour guide had arranged for a van to come pick us up at the airport and take
+us to the station. The car ride through Kunming city isn't that interesting in
+my opinion. It's just a bunch of tall buildings and road decorations here and there.
+It doesn't have the futuristic vibes of Shenzhen or Chongqing that I've seen on
+the internet, giving more of an old town vibes than anything.
+
+[]($image.asset('day1/kunming-cityscape-1.jpg'))
+
+[]($image.asset('day1/kunming-cityscape-2.jpg'))
+
+The train was scheduled for around 2PM, so we had a lot of time to spare. We got
+some food on the plane but it wasn't enough to last until we arrive in Lijiang
+in the evening. So, we had to go find some impromptu lunch inside the station.
+My lunch was made up of a cup of instant noodles and a bottle of ginger ale.
+For an instant noodle, it was pretty good. You can taste a bit of spice and
+the richness of the broth. I'd recommend you give it a try. The ginger ale was meh.
+
+[Noodles stir fry, yogurt, fruits, and some jelly on the plane]($image.asset('day1/plane-food.jpg'))
+
+[Instant beef noodle and ginger ale at the station]($image.asset('day1/station-lunch.jpg'))
+
+One interesting thing about the train station is that you actually have to go
+through security before you can get to the gate and you have to scan your
+passport before you get to the platform. It's just like an airport but for trains.
+I don't think I've had to do anything like this when taking a train in Thailand
+or Japan. I think that this is only the case for long-distance trains
+(cross-city, etc.) but it's still kinda weird. All in the name of public safety
+(and tracking your citizens), I guess.
+
+We didn't have to wait long on the platform before we got on the train. The
+train's interior actually resembles Japan's bullet train–just less organized.
+There weren't enough storage space to store all the luggages so I had to leave
+mine in the area between the carts. If this was the bullet train in Japan, I
+think you'd need to buy a ticket for your large luggage and there's a limited
+number of them. If you can't buy the storage space, then better luck next time!
+
+[Train interior]($image.asset('day1/train-interior.jpg'))
+
+[Train storage]($image.asset('day1/train-storage.jpg'))
+
+It took about 4.5 hours to get from Kunming to Lijiang so we had a lot of time
+to spare in the train. I opted to read a light novel I brought from home to save
+on data usage and phone battery and made some good progress on it. I probably
+went through a quarter of the book by the time we arrived. In case you're
+interested, the light novel is [Danmachi: Familia Chronicle - Episode Ryuu](https://myanimelist.net/manga/103045/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka__Familia_Chronicle_-_Episode_Ryuu)
+where it covers a side story involving Ryuu saving a trafficked girl from a
+casino owner and giving some backstory on her and the other waitresses at the
+Hostess of Fertility. I bought this years ago and only thought to read it now. I
+should've started earlier because it was pretty fun.
+
+After we arrived at the Lijiang Railway Station, we met up with our guide
+Noo-Dee and headed to Lavande Hotel Lijiang Ancient City South Gate Branch where
+we will be staying for the night. Noo-Dee left us and returned home after taking
+us to the hotel, so the group and I were on our own for dinner. We decided to
+walk around the hotel and went into a beef noodle shop that had just opened.
+After struggling to speak Chinese for a bit, I was able to place an order for a
+bowl of (spicy) beef noodles and some dumplings. They were quite delicious.
+They're not as spicy as they are red but they did get me sweating a bit.
+Although they're spicy, I will say that it's not the kind of spice that is
+spicy for spiciness' sake. It actually tastes like good spice if you know
+what I mean. It's not spicy to torment you but the taste of heat actually makes
+the dish better.
+
+[Beef noodles]($image.asset('day1/dinner-noodles.jpg'))
+
+[Dumplings]($image.asset('day1/dinner-dumplings.jpg'))
+
+After dinner, we walked to Lijiang Old Town. It wasn't very interesting. In
+fact, it doesn't even feel like an "old town." The shops inside "old town" are
+very modern shops such as Starbucks, Chagee, 7-Eleven, Northface, etc. and I
+have doubts about their existence when the old town was first built. We
+ultimately decided to go back to the hotel because there was nothing "old" about
+this old town. We would also found out later that part that we reached isn't the
+real old town, but just a small part of it. We had to walk a bit further down to
+see the _real_ old town, where we will visit on the later days.
+
+# Day 2: Heilong Pool, Shangri-la Old Town
+
+
+
+# Day 3: Long-ass car ride to Daocheng
+
+Today was just a long-ass car ride from Shangri-la to Daocheng. The roads were
+pretty bumpy and the driver was definitely speeding. There is actually a good
+reason for the speeding, though. We had to go through this one road two-way road
+that was turned into a one-way road due to construction. However, since people
+still need to drive in both directions, a timed closure was implmeented. This
+means that the road would go one way for a set period of time, then the
+direction would reverse for another set period of time. We were originally told
+that we had to use the road between 12PM to 2PM, but it turned out that we were
+supposed to go *before* 12PM instead––hence the speeding. We aimed to arrive
+after 12PM but now needed to reach before 12PM, or we would have to wait until
+after 6PM to be able to use that stretch of the road again. In the end, we
+arrived just in time to use the road and didn't have to find something to do to
+kill time until 6PM.
+
+# Day 4: The hike to Milk Lake and Five-Color Lake
+
+# Day 5: Long-ass car ride back to Shangri-la, Heidou Cafe, Shambhala Park
+
+# Day 6: Dongzhulin Temple, Yushui Village, Lijiang Old Town
+
+# Day 7: Yulong Snow Mountain, Impression Lijiang, Lanyue Valley, Lijiang Old Town (again)
+
+# Day 8: Lijiang to Kunming to Bangkok
+
+The last day is about as uneventful as the first day. We took a taxi from the
+hotel to the Lijiang Railway Station, took the train to Kunming Railway Station,
+then took a bus to the Kunming Changshui International Airport. We had a (late)
+lunch at the airport and just sat back and relaxed. The airport was pretty small
+and there was no lounge so we just sat in front of the gate until the boarding
+time. Finally, we got on the plane at around 6PM and arrived in back in Thailand
+about 2.5 hours later, ending this trip.
+
+# Post-trip interview
+
+Honestly, the trip wasn't that much fun. Most of the time were spent sitting in
+a van and the views outside the window couldn't make up for it. The actual
+attractions that we went to were pretty good, though.
